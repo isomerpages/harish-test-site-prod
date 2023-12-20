@@ -2,4 +2,5 @@ collections:
   main-folder:
     output: true
     order:
+      - Sub Folder 1/Subfolder page 1.md
       - Sub Folder 1/.keep
