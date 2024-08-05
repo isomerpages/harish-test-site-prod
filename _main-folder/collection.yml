@@ -1,0 +1,8 @@
+collections:
+  main-folder:
+    output: true
+    order:
+      - Sub Folder 12/.keep
+      - Sub Folder 2/.keep
+      - Sub Folder 1/Subfolder page 1.md
+      - Sub Folder 1/.keep
