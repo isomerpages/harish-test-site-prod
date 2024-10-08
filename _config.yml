@@ -1,5 +1,5 @@
 title: Title
-url: ""
+url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -53,3 +53,7 @@ staging: https://staging-lite.d1b3e0anii5bun.amplifyapp.com
 prod: https://master.d3q2di05416ijh.amplifyapp.com
 facebook-pixel: ""
 resources_name: sample
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
