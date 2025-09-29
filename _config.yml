@@ -17,6 +17,7 @@ colors:
       color: "#00838f"
 description: An Isomer site of the Singapore Government
 permalink: none
+contact_us: /contact-us/
 baseurl: ""
 exclude:
   - travis-script.js
